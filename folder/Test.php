@@ -2,5 +2,5 @@
 
 class Test
 {
-
+ protected $prop;
 }
