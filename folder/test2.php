@@ -7,4 +7,6 @@ class test2
  protected $test4;
  protected $test5;
  protected $test6;
+ protected $test7;
+ protected $test8;
 }
