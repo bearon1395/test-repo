@@ -10,4 +10,5 @@ class test2
  protected $test7;
  protected $test8;
  protected $test9;
+ protected $test10;
 }
